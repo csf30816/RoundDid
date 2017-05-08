@@ -31,3 +31,6 @@ So now you are wondering about the characters. RoundDid supports 330+ different 
 
 ## Full character list:
 Coming soon.
+
+# The end
+_If you find something wrong with the font or you want a certain letter to be on it simply create an issue. Thanks, CSF!
